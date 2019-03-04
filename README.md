@@ -20,3 +20,11 @@
 
 Добавить в пример с урока возможность вычислить (a + b - c)
 
+## ДЗ_1
+
+>> опубликую ДЗ немного позже, внизу ссылка на скачивание программы
+
+* Ссылка
+
+   https://github.com/maxim218/maxim218.github.io/blob/master/BlockLogPage/block-log-win32-x64.zip
+   
