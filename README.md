@@ -32,7 +32,7 @@
 
 **Шаг 2** Перетащите ваш index.html в репозиторий и сохраните изменения
 
-**Шаг 3** Перейдите по ссылке https://<your_username>.github.io/index.html
+**Шаг 3** Перейдите по ссылке `https://<your_username>.github.io/index.html`
 
 ***Пример:*** https://akenoq.github.io/index.html   
 
